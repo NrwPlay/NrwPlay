@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NrwPlay
+- 👀 I’m interested in Coding Discord Bots
+- 🌱 I’m currently learning How To Code Mc Plugins
+- 📫 How to reach me : Discord: NrwPlay#9999
