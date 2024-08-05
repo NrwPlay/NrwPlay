@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @NrwPlay
-- 👀 I’m interested in Coding Discord Bots
-- 🌱 I’m currently learning How To Code Mc Plugins
-- 📫 How to reach me : Discord: NrwPlay#9999
+👋 Hi, I'm nrwplay | 15 years old
+
+🚀 Discord Bot Developer | Crafting interactive experiences with bots
+
+🧩 Minecraft Plugin Creator | Enhancing gameplay with custom plugins
+
+💬 Reach Me on Discord | Feel free to drop me a message for collaborations or inquiries
+
