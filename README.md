@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D313RRFU)
 👋 Hi, I'm nrwplay | 15 years old
 
 🚀 Discord Bot Developer | Crafting interactive experiences with bots
