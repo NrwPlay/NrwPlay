@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [Many Diverent Projects](https://github.com/NrwPlay/)
+ 🔭 I’m currently working on [Many Diferent Projects](https://github.com/NrwPlay/)
 
  📫 How to reach me **florian@nrwplay.de**
  </div>
