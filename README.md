@@ -59,6 +59,8 @@
 
 <br/>
 
+<img src="https://stats.nrwplay.de/p/3LfcfXY3s" width="1" height="1" style="display:none;" alt="" />
+
 <div align="center">
 <a href='https://ko-fi.com/NrwPlay' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
